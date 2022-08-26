@@ -1,4 +1,5 @@
-### Hi there 👋, i'm Desmond Afari, a self-taught full stack web developer from Ghana.
+### Hi there 👋
+<p>i'm Desmond Afari, a self-taught full stack web developer from Ghana.</p>
 
 <strong>languages</strong>
 
