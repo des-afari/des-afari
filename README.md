@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p>I'm Desmond Afari, a self-taught full stack web developer from Ghana.</p>
 
-<strong><u>languages and tools</strong></ul><br>
+<strong>languages and tools:</strong><br>
+<div></div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
