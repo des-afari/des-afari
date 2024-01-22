@@ -24,11 +24,13 @@ I'm a machine learning and software engineer based in Ghana.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
+![Pytorch](https://img.shields.io/badge/pytorch-%2523CC342D.svg?style=for-the-badge&logo=pytorch&logoColor=white&color=orange)
+![Pandas](https://img.shields.io/badge/pandas-%2523CC342D.svg?style=for-the-badge&logo=pandas&logoColor=white&color=purple)
+![Numpy](https://img.shields.io/badge/numpy-%2523CC342D.svg?style=for-the-badge&logo=numpy&logoColor=white&color=teal)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-%2523CC342D.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=orange)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%2523CC342D.svg?style=for-the-badge&logo=aws&logoColor=white&color=orange)
-
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-%2523CC342D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
