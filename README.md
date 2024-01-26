@@ -36,6 +36,7 @@ I'm a machine learning and software engineer based in Ghana.
 ![MYSQL](https://img.shields.io/badge/mysql-%2523CC342D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VIM](https://img.shields.io/badge/vim-%2523CC342D.svg?style=for-the-badge&logo=vim&logoColor=white&color=#019331)
 
 ### OS:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
