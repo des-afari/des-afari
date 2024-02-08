@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Desmond
 
-I'm a machine learning and software engineer based in Ghana.
+I'm a full-stack developer based in Ghana.
 
 ## ✉️ Contact
 
